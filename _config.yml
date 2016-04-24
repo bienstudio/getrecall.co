@@ -1,0 +1,12 @@
+---
+title: Recall
+url: http://getrecall.co
+timezone: America/New_York
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+permalink: pretty
